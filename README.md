@@ -1,4 +1,4 @@
-# QA - Estudando !!!!!!!
+# Estudando QA !!!!!!!
 
 ![image](https://user-images.githubusercontent.com/11202772/149996124-3b72e7bf-ede1-4b16-a1c5-bd9e873d84de.png)
 
