@@ -1,6 +1,7 @@
-# Estudando QA !!!!!!!
 
-![image](https://user-images.githubusercontent.com/11202772/149996124-3b72e7bf-ede1-4b16-a1c5-bd9e873d84de.png)
+![image](https://user-images.githubusercontent.com/11202772/151034928-4f188251-cf3e-42c7-b0bf-e47c16ad844e.png)
+
+# Estudando QA !!!!!!!
 
 
 Segue abaixo links e materias para estudo.
