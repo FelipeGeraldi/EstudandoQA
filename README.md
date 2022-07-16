@@ -356,6 +356,12 @@ Desvantagens da automação de Testes:
 
 
 
+
+
+
+
+# Testes de Segurança
+
 O que são testes de segurança
 
 
@@ -381,7 +387,7 @@ Teste de segurança ajudam a descobrir brechas que podem causar a perda de infor
 # Principais problemas de Segurança
 
 ![image](https://user-images.githubusercontent.com/11202772/179369696-efa18102-7870-490c-9a4a-8cea446836cb.png)
-![image](https://user-images.githubusercontent.com/11202772/179369703-513562f9-931f-4509-97dc-511e114e677a.png)
+![image](https://user-images.githubusercontent.com/11202772/179370423-c087a619-277d-4265-ae5b-19b1a805923a.png)
 
 
 
@@ -415,7 +421,7 @@ Teste de segurança ajudam a descobrir brechas que podem causar a perda de infor
 
 
 
-#Investigando
+# Investigando
 
 ![image](https://user-images.githubusercontent.com/11202772/179370084-d7d8d3e4-8363-4b5b-ad08-b336da7e4b7f.png)
 
