@@ -356,5 +356,75 @@ Desvantagens da automação de Testes:
 
 
 
+O que são testes de segurança
+
+
+![image](https://user-images.githubusercontent.com/11202772/179365598-d6ba7042-a58f-4d7f-8549-b843e0ee6be1.png)
+
+
+Teste de segurança também conhecido como Security Testing, permite avaliar as vulnerabilidades em aplicações serviços frente a diferentes tipos de ataques de segurança, com o objetivo de descobrir novas vulnerabilidades antes que sejam exploradas, são essenciais para garantir a confidencialidade, integridade, disponibilidade, autencidade, não-repúdio.
+
+Deve-se assegurar que os requisitos de segurança de software seja garantido no desenvolvimento, mesmo quando estes requisitos não fazem parte das especificações.
+
+Teste de segurança ajudam a descobrir brechas que podem causar a perda de informações importantes, os testes tradicionais buscam avaliar as funcionalidades do software, validar a capacidade de proteção do software contra acessos internos ou externos não autorizados, podem ser considerado o  "alicerce" para os demais testes.
+
+
+
+
+# Segurança Web
+
+![image](https://user-images.githubusercontent.com/11202772/179369670-76bd7a1d-5905-473e-bab0-35faaade278a.png)
+![image](https://user-images.githubusercontent.com/11202772/179369677-205ee1a1-397a-4f38-8bc7-243be8aee5aa.png)
+
+
+
+# Principais problemas de Segurança
+
+![image](https://user-images.githubusercontent.com/11202772/179369696-efa18102-7870-490c-9a4a-8cea446836cb.png)
+![image](https://user-images.githubusercontent.com/11202772/179369703-513562f9-931f-4509-97dc-511e114e677a.png)
+
+
+
+# Penetration Testing
+
+![image](https://user-images.githubusercontent.com/11202772/179369715-1e5df1ac-ab0a-42c7-965c-96bd201e6321.png)
+
+
+
+# Checklist Pentesting
+
+![image](https://user-images.githubusercontent.com/11202772/179369822-e401cf60-d32d-483c-b93a-5f839fee44ab.png)
+![image](https://user-images.githubusercontent.com/11202772/179369849-52f5e5f3-efe9-4da9-90e1-0996cb5245e2.png)
+![image](https://user-images.githubusercontent.com/11202772/179369888-c05d91d2-ee4a-4f76-9342-a1fce7a9a03c.png)
+![image](https://user-images.githubusercontent.com/11202772/179369894-cc39a29b-1867-40f3-9a97-428ca7ed7629.png)
+
+
+
+# Tipos de Testes Automatizados
+
+![image](https://user-images.githubusercontent.com/11202772/179369927-be0e01e4-6915-4339-82ec-10a87d0e0059.png)
+
+
+
+# Ferramentas de Segurança ofensivas
+
+![image](https://user-images.githubusercontent.com/11202772/179370004-d87d94c0-275a-42ab-a1b8-fe206b237a20.png)
+![image](https://user-images.githubusercontent.com/11202772/179370016-231c2a42-36e3-41e6-a570-f5b4fc787a8b.png)
+![image](https://user-images.githubusercontent.com/11202772/179370027-fe6d34d1-abd7-4f9f-b843-349ecdfcf9bb.png)
+![image](https://user-images.githubusercontent.com/11202772/179370036-dd15f8b3-24d3-40bd-a921-dedf88563025.png)
+
+
+
+#Investigando
+
+![image](https://user-images.githubusercontent.com/11202772/179370084-d7d8d3e4-8363-4b5b-ad08-b336da7e4b7f.png)
+
+
+
+
+
+
+
+
 
 
